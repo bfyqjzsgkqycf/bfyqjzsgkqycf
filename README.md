@@ -5,6 +5,6 @@
 - 🆘 I'm in urgent need of assistance in building microservice architectures, especially in aspects such as inter-service communication, load balancing, and containerized deployment, and I'm longing for guidance from professionals.
 - 💬 If you want to learn about data structure-related knowledge, you can ask me. I have a relatively in-depth understanding and practical experience of common data structures like arrays, linked lists, trees, and graphs.
 - 🌐 My personal website is: [jiaqi.io](https://jiaqi.io). I regularly update technical blogs and project experiences there for sharing and communication.
-- 📧 You can contact me via bfyqjzsgkqycf@gmail.com. I warmly welcome you to communicate with me about technical issues or cooperation opportunities.
+- 📧 You can contact me via <span style="color:#0066cc;">bfyqjzsgkqycf@gmail.com</span>. I warmly welcome you to communicate with me about technical issues or cooperation opportunities.
 - 🗻 I once successfully climbed Mount Tai, experiencing the joy and challenges of climbing during the process and exercising my perseverance.
 - 🚴 I have also completed a hundred-kilometer cycling challenge, enjoying the exploration of new scenery during the cycling and breaking through my own limits.
