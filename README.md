@@ -1,10 +1,10 @@
 ## 🚀 Welcome to my coding corner
-- 💻 I'm dedicated to the innovation and performance optimization of Java projects, proficiently leveraging multithreading techniques to handle intricate concurrent tasks effectively.
-- 📚 I'm deeply delving into the Python language, exploring its powerful functions in data processing, automation scripting, and artificial intelligence aspects.
-- 🤝 I'm eager to seek cooperation in the field of cloud computing, looking forward to working with like-minded partners to create efficient and stable cloud solutions.
-- 🆘 I'm in urgent need of assistance in building microservice architectures, especially in aspects such as inter-service communication, load balancing, and containerized deployment, and I'm longing for guidance from professionals.
-- 💬 If you want to learn about data structure-related knowledge, you can ask me. I have a relatively in-depth understanding and practical experience of common data structures like arrays, linked lists, trees, and graphs.
-- 🌐 My personal website is: [jiaqi.io](https://jiaqi.io). I regularly update technical blogs and project experiences there for sharing and communication.
-- 📧 You can contact me via `bfyjqzsgkqycf@163.com`. I warmly welcome you to communicate with me about technical issues or cooperation opportunities.
-- 🗻 I once successfully climbed Mount Tai, experiencing the joy and challenges of climbing during the process and exercising my perseverance.
-- 🚴 I have also completed a hundred-kilometer cycling challenge, enjoying the exploration of new scenery during the cycling and breaking through my own limits.
+- 💻 I focus on Java project innovation & performance optimization, mastering multithreading.
+- 📚 I deeply explore Python in data processing, automation scripts & AI fields.
+- ☁️ I seek cloud computing cooperation to create efficient, stable solutions.
+- 🛠️ I need help with microservice architecture, especially service communication & deployment.
+- 💬 Ask me about data structures—rich understanding & practical experience.
+- 🌐 My site [jiaqi.io](https://jiaqi.io): celebrate life's wonders via verses, books, cinema, and far-off journeys.
+- 📧 Contact me at `bfyjqzsgkqycf@163.com` for tech exchanges or collaborations.
+- 🗻 I climbed Mount Tai, gaining perseverance through challenges.
+- 🚲 I finished 100 - km cycling, enjoying scenery while breaking limits.
