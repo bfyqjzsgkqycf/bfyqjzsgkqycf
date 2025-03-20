@@ -1,5 +1,5 @@
 ## 🚀 Welcome to my coding corner
-- 🎯 I'm focused on the innovation and performance optimization of Java projects, proficiently mastering multithreading programming techniques, and capable of efficiently handling complex concurrent tasks.
+- 💻 I'm dedicated to the innovation and performance optimization of Java projects, proficiently leveraging multithreading techniques to handle intricate concurrent tasks effectively.
 - 📚 I'm deeply delving into the Python language, exploring its powerful functions in data processing, automation scripting, and artificial intelligence aspects.
 - 🤝 I'm eager to seek cooperation in the field of cloud computing, looking forward to working with like-minded partners to create efficient and stable cloud solutions.
 - 🆘 I'm in urgent need of assistance in building microservice architectures, especially in aspects such as inter-service communication, load balancing, and containerized deployment, and I'm longing for guidance from professionals.
