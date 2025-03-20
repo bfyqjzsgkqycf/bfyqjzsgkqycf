@@ -5,6 +5,6 @@
 - 🛠️ I need help with microservice architecture, especially service communication & deployment.
 - 💬 Ask me about data structures—rich understanding & practical experience.
 - 🌐 My site [jiaqi.io](https://jiaqi.io): celebrate life's wonders via verses, books, cinema, and far-off journeys.
-- 📧 Contact me at `bfyjqzsgkqycf@163.com` for tech exchanges or collaborations.
+- 📧 Email me at bfyjqzsgkqycf@163.com to share thoughts or explore possibilities.
 - 🗻 I climbed Mount Tai, gaining perseverance through challenges.
 - 🚲 I finished 100 - km cycling, enjoying scenery while breaking limits.
