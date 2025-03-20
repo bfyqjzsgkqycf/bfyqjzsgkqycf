@@ -1,10 +1,10 @@
 ## 🚀 Welcome to my coding corner
-- 🎯 我聚焦于 Java 项目的创新与性能优化工作，熟练掌握多线程编程技巧，能高效处理复杂的并发任务。同时，擅长运用数据库优化技术，如索引优化、查询语句调优等，持续提升项目的运行性能与稳定性。
-- 📚 我正深入学习 Python 语言，研究它在数据处理、自动化脚本以及人工智能等方面的强大功能。
-- 🤝 我希望在云计算领域寻求合作，期待与志同道合的伙伴一起打造高效、稳定的云解决方案。
-- 🆘 我在微服务架构搭建上急需帮助，特别是在服务间通信、负载均衡和容器化部署等方面，渴望得到专业人士的指导。
-- 💬 如果你想了解数据结构相关知识可以问我，我对数组、链表、树、图等常见数据结构有较深入的理解和实践经验。
-- 🌐 我的个人网站是：jiaqi.io
-- 📧 你可以通过 bfyqjzsgkqycf@gmail.com 联系我，我很欢迎和你交流技术问题或者合作机会。
-- 🗻 我曾成功登上泰山，在攀登中体验乐趣与挑战，锻炼了自己的毅力。
-- 🚴 我还完成过百公里的骑行挑战，享受在骑行中探索新风景、突破自我极限的感觉.
+- 🎯 I'm focused on the innovation and performance optimization of Java projects, proficiently mastering multithreading programming techniques, and capable of efficiently handling complex concurrent tasks.
+- 📚 I'm deeply delving into the Python language, exploring its powerful functions in data processing, automation scripting, and artificial intelligence aspects.
+- 🤝 I'm eager to seek cooperation in the field of cloud computing, looking forward to working with like-minded partners to create efficient and stable cloud solutions.
+- 🆘 I'm in urgent need of assistance in building microservice architectures, especially in aspects such as inter-service communication, load balancing, and containerized deployment, and I'm longing for guidance from professionals.
+- 💬 If you want to learn about data structure-related knowledge, you can ask me. I have a relatively in-depth understanding and practical experience of common data structures like arrays, linked lists, trees, and graphs.
+- 🌐 My personal website is: jiaqi.io. I regularly update technical blogs and project experiences there for sharing and communication.
+- 📧 You can contact me via bfyqjzsgkqycf@gmail.com. I warmly welcome you to communicate with me about technical issues or cooperation opportunities.
+- 🗻 I once successfully climbed Mount Tai, experiencing the joy and challenges of climbing during the process and exercising my perseverance.
+- 🚴 I have also completed a hundred-kilometer cycling challenge, enjoying the exploration of new scenery during the cycling and breaking through my own limits.
